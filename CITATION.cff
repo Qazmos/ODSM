@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this distribution system model, please cite it as below."
+type: dataset
+title: "ODSM"
+authors:
+ - family-names: Askar
+   given-names: Arsen
+   email: arsen.askar@fh-wels.at
+license: CC-BY-4.0
+repository-code: "https://github.com/Qazmos/ODSM"
+abstract: "Open distribution system model for research and educational use."
+keywords:
+ - power systems
+ - distribution system
+ - grid model
+ - aggregation
